@@ -1,25 +1,10 @@
+## Olá, eu sou a Amanda! 👩‍💻
 
-## Olá! Eu sou a Amanda 👩‍💻
+Atualmente, trabalho como assistente de testes, garantindo a qualidade e a usabilidade dos softwares. Tenho uma paixão por tecnologia e um amplo conjunto de habilidades que inclui:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-teles04/)
+- **Linguagens de Programação**: Java, SQL, JavaScript, HTML, CSS 
+- **Início em Python**: Explorando novas oportunidades e expandindo meu conhecimento
+- **Segurança da Informação**: Foco em práticas de segurança para proteger dados sensíveis
+- **Dados**: Gerenciamento e manipulação eficiente de dados
 
-
-
-![Langs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Langs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Langs](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<!--
-**amandateles/amandateles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. No meu GitHub, você encontrará projetos que refletem meu interesse em desenvolvimento e testes de software.
